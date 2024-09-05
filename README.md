@@ -6,7 +6,7 @@
 
 > Also checkout out ->  for the Notes.
 
-| Day | Lecture No. | [Lecture](https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=LFeiM4Ef6kGrGJ5B) | [Class Illustrations](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/Class%20Illustrations) | [Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td) | [HomeWork Sheet](https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv) | [Solutions](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets) | Revision |
+| Day | Lecture No. | [Lecture](https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=LFeiM4Ef6kGrGJ5B) | [Class Illustrations] | [Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td) | [HomeWork Sheet](https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv) | [Solutions](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets) | Revision |
 | --- | ------- | ----- | ------------------- | ----- | -------------- | --------- | -------- |
 | 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) || [View](https://drive.google.com/file/d/1RcgPqM7PQSv9LL24PkBzKa1Zzwc3uHWW) | [Solve](soon..) | [Completed](soon..) | ✅
 | 2 | 2 | [FlowCharts and PseudoCode](https://www.youtube.com/watch?v=H_9MSvTL74g) || [View](soon...) | [Solve](soon..) |[Completed](soon..) | ✅
